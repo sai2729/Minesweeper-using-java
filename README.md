@@ -25,7 +25,7 @@ To run the Minesweeper game, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/minesweeper.git
+   git clone https://github.com/sai2729/Minesweeper-using-java.git
    ```
 2. Compile the Java files:
    ```bash
