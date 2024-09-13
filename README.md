@@ -35,3 +35,13 @@ To run the Minesweeper game, follow these steps:
    ```bash
    java GamePlay
    ```
+
+## Future Enhancements
+- Add a GUI for a more user-friendly experience.
+- Include different difficulty levels (easy, medium, hard) based on grid size and number of mines.
+- Add a timer to track the duration of the game.
+- Implement save/load game functionality.
+
+## Contributing
+Feel free to contribute by submitting a pull request, reporting issues, or suggesting new features!
+
